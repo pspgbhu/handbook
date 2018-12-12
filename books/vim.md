@@ -5,12 +5,19 @@
   - 重复上一次 EX 命令:
     `{n}@@`
 
-## 窗口操作
+## 窗口（window）操作
 
   - 将一个 window 变为 tab:  
     `:tabedit %` or `<C-w> T`
     
-## 调整窗口尺寸
+  - 同右边最近的 window 交换位置:
+    `<C-w> x`
+    
+  - 旋转所有 window 的位置和布局：
+    `<C-w> r` or `<C-w> R`
+
+    
+## 调整窗口（window）尺寸
 
   - 将当前窗口的高度减少n行：
     `:resize -{n}` or `<C-w> {n}-`
