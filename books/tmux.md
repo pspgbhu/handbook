@@ -24,12 +24,12 @@
 
 ## 会话 Session
 
-    :new<回车>  启动新会话
-    $           重命名当前会话
-    s           列出所有会话
-    (           上一个会话
-    )           next session
-    L           ‘last’ (previously used) session
+    :new<Enter>    启动新会话
+    $              重命名当前会话
+    s              列出所有会话
+    (              上一个会话
+    )              next session
+    L              ‘last’ (previously used) session
 
 ## <a name="WindowsTabs"></a>窗口 (标签页)
 
